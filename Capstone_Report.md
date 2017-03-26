@@ -15,9 +15,9 @@ Differential expression analysis revealed that 597 genes were significantly upre
 This is the first evidence of a correlation between stress-activated locomotor behavior and gene expression in the PVN following prenatal sGC. Interestingly, this association focused on a subset of genes that are co-expressed and involved in regulation of transcription and sex-hormone signaling. The major value of this analytical approach is that it enabled us to narrow the scope from over 700 genes that were significantly differentially expressed, to three genes that can be focused on in further investigations. These findings provide insight into the potential mechanisms of antenatal sGC and how these molecular events relate to behavior. Furthermore, we provide proof of principal for the use of gene expression modelling in disease prediction, detection, and prevention.
 
 ## Client Recommendations: 
-..*	Employ the described analytical pipeline to gene expression and behavioral data from other contexts to elucidate molecular mechanisms involved in those behaviors.
-..*	Examine genes identified by this technique for their viability as bio-markers for diseases or exposure
-..*	Examine genes identified by this technique for their viability as drug targets
+1.	Employ the described analytical pipeline to gene expression and behavioral data from other contexts to elucidate molecular mechanisms involved in those behaviors.
+2.	Examine genes identified by this technique for their viability as bio-markers for diseases or exposure
+3.	Examine genes identified by this technique for their viability as drug targets
 
 ## Future Directions: 
 Further research would include generating a novel data set to validate the findings observed with the present analyses. Furthermore, further investigation into the identified genes ca be performed through literature review to determine the molecular relationship that exists between the identified genes. In addition, publicly available gene expression and behavioral data from other contexts can be used to further validate these findings. 
