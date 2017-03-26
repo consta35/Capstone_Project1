@@ -22,6 +22,7 @@ This is the first evidence of a correlation between stress-activated locomotor b
 ## Future Directions: 
 Further research would include generating a novel data set to validate the findings observed with the present analyses. Furthermore, further investigation into the identified genes ca be performed through literature review to determine the molecular relationship that exists between the identified genes. In addition, publicly available gene expression and behavioral data from other contexts can be used to further validate these findings. 
 
+## Citations:
 1.	French, N.P., et al., Repeated antenatal corticosteroids: effects on cerebral palsy and childhood behavior. Am J Obstet Gynecol, 2004. 190(3): p. 588-95.
 2.	Glover, V., Annual Research Review: Prenatal stress and the origins of psychopathology: an evolutionary perspective. J Child Psychol Psychiatry, 2011. 52(4): p. 356-67.
 3.	Alexander, N., et al., Impact of antenatal synthetic glucocorticoid exposure on endocrine stress reactivity in term-born children. J Clin Endocrinol Metab, 2012. 97(10): p. 3538-44.
